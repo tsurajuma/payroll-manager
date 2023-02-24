@@ -1,0 +1,5 @@
+com\umasuraj\payroll\manager\entity\Employee.class
+com\umasuraj\payroll\manager\entity\Pay.class
+com\umasuraj\payroll\manager\entity\Salary.class
+com\umasuraj\payroll\manager\entity\User.class
+com\umasuraj\payroll\manager\PayrollManager.class
